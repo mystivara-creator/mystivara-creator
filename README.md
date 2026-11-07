@@ -1,70 +1,115 @@
-<!-- Futuristic profile header -->
+<!--
+  MYSTIVARA — Developer Portfolio
+  Lightweight GitHub profile README. External visuals are decorative;
+  all essential profile information remains readable without them.
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:123B63,70:00C2FF,100:7B2FF7&height=190&section=header&text=MYSTIVARA&fontSize=48&fontColor=EAF6FF&fontAlignY=38&animation=fadeIn&desc=Independent%20Developer%20%7C%20Systems%20Engineering&descSize=14&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080B16,45:102A43,75:075985,100:6D28D9&height=220&section=header&text=MYSTIVARA&fontSize=64&fontColor=EAF6FF&fontAlignY=42&desc=SYSTEMS%20ENGINEERING%20%2F%2F%20NATIVE%20DEVELOPMENT&descSize=13&descAlignY=63&animation=fadeIn" width="100%" alt="Mystivara — Systems Engineering" />
 
-<a href="https://github.com/mystivara-creator">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=55D6FF&center=true&vCenter=true&width=650&lines=Building+systems%2C+not+just+software.;Android+%7C+Native+Development+%7C+Systems+Engineering;Creator+of+CoreFlow+Engine." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1100&color=67E8F9&center=true&vCenter=true&repeat=true&width=620&height=35&lines=Engineering+systems+that+adapt.;Android+%2F%2F+Native+Code+%2F%2F+Performance;Creator+of+CoreFlow+Engine." alt="Animated developer tagline" />
+
+<br/>
+
+<a href="https://github.com/mystivara-creator/CoreFlow-Engine">
+  <img src="https://img.shields.io/badge/CORE_PROJECT-CoreFlow_Engine-0B1220?style=for-the-badge&logo=android&logoColor=67E8F9&labelColor=111827" alt="CoreFlow Engine" />
+</a>
+<a href="https://github.com/mystivara-creator?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-Repositories-0B1220?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=111827" alt="Explore repositories" />
 </a>
 
-<p>
-  <a href="https://github.com/mystivara-creator?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <a href="https://github.com/mystivara-creator/CoreFlow-Engine"><img src="https://img.shields.io/badge/Featured_Project-CoreFlow-102A43?style=for-the-badge&logo=android&logoColor=55D6FF" alt="CoreFlow Engine" /></a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+`INDEPENDENT DEVELOPER` &nbsp; • &nbsp; `ANDROID SYSTEMS` &nbsp; • &nbsp; `NATIVE ENGINEERING`
 
 </div>
 
 ---
 
-## About
+<table>
+<tr>
+<td width="58%" valign="top">
 
-Independent developer focused on **Android systems, native software, and runtime optimization**.
+### / PROFILE
 
-I build tools that make systems more stable, efficient, and adaptive.
+I build software close to the system layer — focused on **performance, stability, and controlled runtime behavior**.
 
-- **Creator:** [CoreFlow Engine](https://github.com/mystivara-creator/CoreFlow-Engine)
-- **Focus:** Android internals · System engineering · Native development
-- **Interests:** Performance engineering · Automation · AI-assisted systems
+My work combines Android internals, native development, and system-level problem solving.
 
-## Featured Project
+</td>
+<td width="42%" valign="top">
+
+### / CURRENT FOCUS
+
+- Android system optimization
+- Native runtime engineering
+- Hardware capability discovery
+- Adaptive control & verification
+
+</td>
+</tr>
+</table>
+
+## / SIGNATURE PROJECT
 
 <div align="center">
 
 <a href="https://github.com/mystivara-creator/CoreFlow-Engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mystivara-creator&repo=CoreFlow-Engine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=55D6FF&icon_color=7B2FF7" alt="CoreFlow Engine repository card" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,55:123B5D,100:312E81&height=100&section=header&text=COREFLOW%20ENGINE&fontSize=30&fontColor=E0F2FE&fontAlignY=50&desc=ANDROID%20SYSTEM%20OPTIMIZATION%20FRAMEWORK&descSize=10&descAlignY=78" width="100%" alt="CoreFlow Engine banner" />
 </a>
 
 </div>
 
-**CoreFlow Engine** is an Android system optimization framework built to discover device capabilities, apply controlled system tuning, and verify outcomes. Its goal is practical system stability—not aggressive tuning for its own sake.
-
-## Tech & Tools
+**CoreFlow Engine** is a system optimization framework for Android. It discovers device capabilities, performs controlled system tuning, and verifies real outcomes — with stability, recovery, and hardware longevity as engineering priorities.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,rust,kotlin,ts,python,bash,linux,android,cmake,git,github&theme=dark&perline=6" alt="Technology stack" />
+<a href="https://github.com/mystivara-creator/CoreFlow-Engine"><img src="https://img.shields.io/badge/VIEW_SOURCE-→-67E8F9?style=for-the-badge&labelColor=0B1220" alt="View CoreFlow source code" /></a>
 
 </div>
 
-## GitHub Activity
+## / TECHNOLOGY
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mystivara-creator&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=55D6FF&icon_color=7B2FF7&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystivara-creator&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=55D6FF" alt="Most used languages" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mystivara-creator&bg_color=0D1117&color=55D6FF&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
+<img src="https://skillicons.dev/icons?i=cpp,rust,kotlin,ts,python,bash,linux,android,cmake,git,github&theme=dark&perline=11" alt="Technologies and tools" />
 
 </div>
 
-## Connect
+## / ENGINEERING PRINCIPLES
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mystivara--creator-161B22?style=for-the-badge&logo=github)](https://github.com/mystivara-creator)
+| CAPABILITY | PRINCIPLE |
+|:--|:--|
+| System control | Capability-driven, not device-assumed |
+| Optimization | Measured outcomes over arbitrary tweaks |
+| Reliability | Verify every meaningful mutation |
+| Recovery | Preserve a known-good path |
+| Performance | Stability before aggression |
 
-<sub>Build with intent. Optimize with evidence. Engineer for stability.</sub>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,45:00C2FF,100:050816&height=100&section=footer" />
+---
+
+<div align="center">
+
+### LET'S BUILD WHAT'S NEXT.
+
+Open to meaningful collaboration, engineering discussions, and practical ideas.
+
+<a href="https://github.com/mystivara-creator?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/mystivara-creator/CoreFlow-Engine/issues"><img src="https://img.shields.io/badge/CoreFlow-Discussions-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="CoreFlow discussions" /></a>
+
+<br/>
+
+<sub>DESIGN WITH INTENT. ENGINEER WITH EVIDENCE. BUILD FOR STABILITY.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:075985,100:080B16&height=8&section=footer" width="100%" alt="" />
 
 </div>
