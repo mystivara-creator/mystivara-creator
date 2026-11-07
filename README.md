@@ -1,382 +1,70 @@
-# Mystivara
+<!-- Futuristic profile header -->
+<div align="center">
 
-Independent developer focused on Android systems, native C++, runtime optimization, and autonomous system engineering.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:123B63,70:00C2FF,100:7B2FF7&height=190&section=header&text=MYSTIVARA&fontSize=48&fontColor=EAF6FF&fontAlignY=38&animation=fadeIn&desc=Independent%20Developer%20%7C%20Systems%20Engineering&descSize=14&descAlignY=60" />
 
-I build software that explores how Android systems behave at runtime and how existing factory configurations can be observed, evaluated, and improved without blindly replacing their stability-oriented design.
+<a href="https://github.com/mystivara-creator">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=55D6FF&center=true&vCenter=true&width=650&lines=Building+systems%2C+not+just+software.;Android+%7C+Native+Development+%7C+Systems+Engineering;Creator+of+CoreFlow+Engine." alt="Typing introduction" />
+</a>
 
----
+<p>
+  <a href="https://github.com/mystivara-creator?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/mystivara-creator/CoreFlow-Engine"><img src="https://img.shields.io/badge/Featured_Project-CoreFlow-102A43?style=for-the-badge&logo=android&logoColor=55D6FF" alt="CoreFlow Engine" /></a>
+</p>
 
-## Profile
-
-- GitHub: [mystivara-creator](https://github.com/mystivara-creator)
-- Primary project: [CoreFlow Engine](https://github.com/mystivara-creator/CoreFlow-Engine)
-- Background: Digital Business / Marketing
-- Current direction: Android systems, native development, system engineering, and autonomous runtime control
-- Development environment: Android, Linux, ARM64, Termux
-
----
-
-## CoreFlow Engine
-
-CoreFlow Engine is my main systems project.
-
-It is a native C++17 runtime optimization engine for Android, designed around the idea that optimization should work with the existing factory/OEM configuration rather than simply replacing it.
-
-The core principle is:
-
-```text
-Factory / OEM Configuration
-            |
-            v
-    Capture Runtime State
-            |
-            v
-      Factory Baseline
-            |
-            v
-   Observe -> Evaluate
-            |
-            v
-         Optimize
-            |
-            v
-         Verify
-            |
-       +----+----+
-       |         |
-      Keep     Restore
-```
-
-The project is evolving from a runtime tuning foundation into a more autonomous system capable of observing runtime conditions, evaluating outcomes, adapting its behavior, and restoring the baseline when an optimization produces a regression.
-
-### CoreFlow components
-
-- Autonomous runtime engine
-- Runtime state machine
-- Device capability discovery
-- CPUFreq policy discovery
-- Adaptive CPU governor selection
-- Runtime observation
-- Baseline Intelligence
-- Efficiency evaluation
-- Mutation control
-- Mutation verification
-- Automatic rollback
-- Thermal protection
-- Predictive thermal intelligence
-- ONNX-based thermal prediction
-- Native Android runtime control
+</div>
 
 ---
 
-## Baseline Intelligence
-
-Baseline Intelligence is designed to prevent CoreFlow from assuming that every mutation is beneficial.
-
-The system first observes the existing runtime behavior, establishes a baseline, applies a verified mutation, observes the resulting behavior, and evaluates the outcome.
-
-```text
-Factory Runtime
-      |
-      v
-Baseline Samples
-      |
-      v
-Verified Mutation
-      |
-      v
-Observation Samples
-      |
-      v
-Outcome Evaluation
-      |
-      +--------+--------+
-      |        |        |
-  Beneficial Neutral Regression
-      |        |        |
-     Keep     Hold    Restore
-```
-
-The intended outcomes are:
-
-- Beneficial: keep the optimization
-- Neutral: hold the current state
-- Regression: reject the mutation and restore the baseline
-- Inconclusive: avoid making an unsupported decision
-
-This makes runtime optimization measurement-driven rather than assumption-driven.
-
----
-
-## Adaptive Optimization
-
-The production adaptive path is based on device capabilities and runtime conditions.
-
-```text
-Device Discovery
-      |
-      v
-CPUFreq Policies
-      |
-      v
-Available Governors
-      |
-      v
-Capability Filtering
-      |
-      v
-Adaptive Scoring
-      |
-      v
-Candidate Selection
-      |
-      v
-Hysteresis
-      |
-      v
-Apply + Verify
-      |
-      v
-Observe Result
-```
-
-The design intentionally avoids treating one governor or configuration as universally optimal.
-
----
-
-## Predictive Thermal Intelligence
-
-CoreFlow includes an ONNX-based thermal prediction layer.
-
-The predictor currently uses a 14-feature runtime contract:
-
-```text
-cpu_utilization
-load1
-mem_available_ratio
-thermal_current_c
-thermal_delta_c
-charging
-battery_temperature_c
-battery_current_a
-battery_voltage_v
-uptime_delta_s
-thermal_trend
-memory_trend
-load_trend
-runtime_confidence
-```
-
-The model is used as a predictor. Deterministic runtime policy and thermal protection remain responsible for the final control decision.
-
-The current training pipeline uses Python and produces an ONNX model for Android runtime inference.
-
----
-
-## Android Systems
-
-My Android-related work includes:
-
-- Android runtime internals
-- Kernel-facing interfaces
-- CPUFreq
-- Scheduler behavior
-- Thermal management
-- Memory and I/O behavior
-- sysfs and procfs
-- Systemless modules
-- Device capability discovery
-- Runtime system control
-- Device and kernel experimentation
-- Android native daemons
+## About
 
-My development environment has also included Termux for command-line development, experimentation, scripting, and system tooling.
+Independent developer focused on **Android systems, native software, and runtime optimization**.
 
----
+I build tools that make systems more stable, efficient, and adaptive.
 
-## Native Development
+- **Creator:** [CoreFlow Engine](https://github.com/mystivara-creator/CoreFlow-Engine)
+- **Focus:** Android internals · System engineering · Native development
+- **Interests:** Performance engineering · Automation · AI-assisted systems
 
-Primary technologies and tools:
+## Featured Project
 
-```text
-C++
-C++17
-Python
-Shell
-CMake
-Android NDK
-ONNX / ONNX Runtime
-GitHub Actions
-Linux
-Android
-ARM64
-Termux
-```
+<div align="center">
 
-I am particularly interested in native software that interacts directly with the operating system instead of relying only on high-level abstractions.
+<a href="https://github.com/mystivara-creator/CoreFlow-Engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mystivara-creator&repo=CoreFlow-Engine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=55D6FF&icon_color=7B2FF7" alt="CoreFlow Engine repository card" />
+</a>
 
----
+</div>
 
-## Engineering Direction
+**CoreFlow Engine** is an Android system optimization framework built to discover device capabilities, apply controlled system tuning, and verify outcomes. Its goal is practical system stability—not aggressive tuning for its own sake.
 
-My interests have gradually moved from Android customization and static tuning toward building the systems behind the tuning itself.
+## Tech & Tools
 
-The direction I am working toward is:
+<div align="center">
 
-```text
-Observe
-   |
-Understand
-   |
-Evaluate
-   |
-Act
-   |
-Verify
-   |
-Adapt
-```
+<img src="https://skillicons.dev/icons?i=cpp,rust,kotlin,ts,python,bash,linux,android,cmake,git,github&theme=dark&perline=6" alt="Technology stack" />
 
-The objective is not simply to make a device more aggressive.
+</div>
 
-The objective is to make runtime optimization more aware of:
+## GitHub Activity
 
-- current system conditions
-- hardware capabilities
-- thermal state
-- workload
-- memory behavior
-- charging state
-- previous decisions
-- observed outcomes
-- confidence in the available telemetry
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mystivara-creator&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=55D6FF&icon_color=7B2FF7&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystivara-creator&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=55D6FF" alt="Most used languages" />
 
-## Development Principles
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mystivara-creator&bg_color=0D1117&color=55D6FF&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
 
-I generally prefer:
+</div>
 
-- measurable behavior
-- reproducible results
-- conservative system control
-- capability-driven decisions
-- clear separation of observation and control
-- deterministic safety boundaries
-- graceful failure
-- verification after mutation
-- rollback when behavior regresses
-- incremental development
-- data-backed optimization
+## Connect
 
-A central idea behind my work is:
+<div align="center">
 
-> Observe before changing. Measure before keeping.
+[![GitHub](https://img.shields.io/badge/GitHub-mystivara--creator-161B22?style=for-the-badge&logo=github)](https://github.com/mystivara-creator)
 
----
+<sub>Build with intent. Optimize with evidence. Engineer for stability.</sub>
 
-## Device and Development Environment
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,45:00C2FF,100:050816&height=100&section=footer" />
 
-My profile README has historically listed the following Android testing environment:
-
-- Device: Redmi Note 15 5G
-- Codename: `kunzite`
-- Root / control environment: KernelSU-Next
-- Recovery environment: OrangeFox-based customization
-
-These details describe the environment used for Android experimentation and development rather than a requirement of CoreFlow itself.
-
----
-
-## Other Technical Interests
-
-Beyond CoreFlow, my interests include:
-
-- Backend development
-- AI engineering
-- Systems and networking
-- Linux
-- Android internals
-- Kernel development concepts
-- Security tooling
-- CLI development
-- Automation
-- Runtime telemetry
-- Machine-learning-assisted system analysis
-
-I also experiment with small utilities and system-oriented projects as a way to understand different parts of software engineering.
-
----
-
-## Learning and Development
-
-My development path started with Android modification and system customization and has gradually expanded into programming, native development, system architecture, and machine-learning-assisted runtime systems.
-
-I use practical projects as a way to learn:
-
-```text
-Learn
-  |
-Build
-  |
-Test
-  |
-Observe
-  |
-Understand
-  |
-Improve
-```
-
----
-
-## Projects
-
-### CoreFlow Engine
-
-Native Android runtime optimization and autonomous control system.
-
-[Repository](https://github.com/mystivara-creator/CoreFlow-Engine)
-
-### Kunzite CoreFlow Engine
-
-The earlier project direction that evolved into the current CoreFlow Engine architecture.
-
----
-
-## Current Focus
-
-My current focus is building CoreFlow into a more mature autonomous runtime system with:
-
-- stronger runtime observation
-- reliable baseline comparison
-- adaptive optimization
-- verified mutation
-- thermal prediction
-- deterministic safety boundaries
-- rollback and recovery
-- better runtime intelligence
-- reproducible testing
-
----
-
-## Philosophy
-
-I am interested in systems that do not simply execute a configuration.
-
-I want systems that can understand their current state, evaluate whether an action is justified, verify the result, and return to a known-good baseline when necessary.
-
-```text
-Stable
-Efficient
-Adaptive
-Measured
-```
-
----
-
-## Contact
-
-GitHub: [github.com/mystivara-creator](https://github.com/mystivara-creator)
-
-For technical discussions, repositories and project issues are the preferred way to connect.
+</div>
