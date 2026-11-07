@@ -116,6 +116,31 @@ It is not intended to be a collection of static tweaks or an aggressive performa
   <img src="https://img.shields.io/badge/OPEN_PROJECT-Explore_CoreFlow_Engine-9AB7C8?style=flat-square&labelColor=172432" alt="Open CoreFlow Engine repository" />
 </a>
 
+## Other selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Umbrella Project
+
+Independent Android kernel engineering for Redmi Note 15 5G. Focused on reproducible builds, compatibility verification, responsiveness, and energy efficiency.
+
+<a href="https://github.com/mystivara-creator/Umbrella-Project">Explore repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Kunzite Capability Suite
+
+Device-specific Android research and KernelSU tooling for auditing and evaluating exposed platform capabilities.
+
+<a href="https://github.com/mystivara-creator/Kunzite-Capability-Suite">Explore repository ↗</a>
+
+</td>
+</tr>
+</table>
+
 ## Technical interests & toolkit
 
 My development work spans native programming, Android tooling, automation, and system-oriented software.
@@ -169,6 +194,24 @@ I prefer a disciplined engineering cycle:
 </div>
 
 I am particularly interested in software that can interact with the operating system directly while remaining efficient, understandable, and maintainable.
+
+## GitHub activity
+
+I value a contribution history that reflects real engineering work. This animation is generated from my public GitHub contribution graph and refreshed automatically every week.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mystivara-creator/mystivara-creator/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mystivara-creator/mystivara-creator/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/mystivara-creator/mystivara-creator/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br/>
+
+<a href="https://github.com/mystivara-creator?tab=overview&from=2026-01-01&to=2026-12-31">View contribution activity ↗</a>
+
+</div>
 
 ## Beyond the code
 
