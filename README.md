@@ -6,13 +6,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B12,45:111C2B,100:1D3A4D&height=9&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:080B12,28:102A43,62:155E75,100:312E81&height=255&section=header&text=MYSTIVARA&fontSize=60&fontColor=EDF7FC&fontAlignY=37&desc=SYSTEMS%20ENGINEERING%20%2F%2F%20NATIVE%20DEVELOPMENT&descSize=13&descAlignY=58&animation=twinkling" width="100%" alt="Mystivara — animated wave header" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3600&pause=1200&color=9AB7C8&center=true&vCenter=true&repeat=true&width=620&height=24&lines=INDEPENDENT+DEVELOPER;ANDROID+SYSTEMS+%26+NATIVE+ENGINEERING;CREATOR+OF+COREFLOW+ENGINE" alt="Developer identity" />
-
-# M Y S T I V A R A
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=800&color=7DD3FC&center=true&vCenter=true&repeat=true&width=740&height=42&lines=Building+systems+that+adapt.;Android+%2F%2F+Native+Engineering+%2F%2F+Performance.;Creator+of+CoreFlow+Engine.;Stability+by+design.+Optimization+by+evidence." alt="Animated developer tagline" />
 
 ### Engineering systems that perform with purpose.
 
@@ -77,7 +75,7 @@ I value engineering that is measurable and deliberate. A change should have a cl
 <div align="center">
 
 <a href="https://github.com/mystivara-creator/CoreFlow-Engine">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101923,55:18364A,100:26394A&height=132&section=header&text=COREFLOW%20ENGINE&fontSize=30&fontColor=E7F0F5&fontAlignY=42&desc=ANDROID%20SYSTEM%20OPTIMIZATION%20FRAMEWORK&descSize=10&descAlignY=70" width="100%" alt="CoreFlow Engine — Android System Optimization Framework" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0B1220,30:123B5D,68:087E8B,100:312E81&height=155&section=header&text=COREFLOW%20ENGINE&fontSize=32&fontColor=F0F9FF&fontAlignY=40&desc=ANDROID%20SYSTEM%20OPTIMIZATION%20FRAMEWORK&descSize=11&descAlignY=69&animation=twinkling" width="100%" alt="CoreFlow Engine — animated system optimization banner" />
 </a>
 
 </div>
@@ -204,6 +202,6 @@ The best place for technical collaboration is GitHub. For casual updates and per
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:26394A,50:18364A,100:080B12&height=9&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:312E81,45:155E75,100:080B12&height=115&section=footer&text=ENGINEER%20WITH%20EVIDENCE&fontSize=17&fontColor=E0F2FE&fontAlignY=66&animation=fadeIn" width="100%" alt="Animated portfolio footer" />
 
 </div>
